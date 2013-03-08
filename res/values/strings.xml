@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EZReader</string>
+    <string name="menu_settings">Settings</string>
+    <string name="app_id">4fdae355</string>
+    <string name="preference_key_tts_role">vixf</string>
+    <string name="preference_default_tts_role">vixf</string>
+    <string name="preference_key_tts_speed">100</string>
+    <string name="preference_key_tts_volume">100</string>
+    <string name="preference_key_tts_music"></string>
+    <string name="preference_default_tts_music"></string>
+	<string name="text_tts_source">
+	    白日依山尽，
+	    黄河入海流。
+	    要吃涮羊肉，
+	    请您上二楼。
+	    The large white sun from mount-top is fading. 
+	    The Yellow River seaward is flowing. 
+	    For a thousand-mile panoramic sight. 
+	    One should climb the tower one more flight.</string>
+    <string name="go">GO</string>
+    <string name="of">/</string>
+    <string name="zero">0</string>
+</resources>
